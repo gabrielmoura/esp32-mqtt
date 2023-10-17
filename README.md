@@ -4,6 +4,8 @@ Este projeto se baseia em [esp32-wifi-manager-vuejs](https://github.com/giobauer
 
 É um projeto simples que se conecta a uma rede WiFi e envia mensagens para um servidor MQTT.
 
+Criado em 02/02/2021.
+
 ## Como usar
 
 1. Clone o repositório
